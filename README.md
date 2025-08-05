@@ -3,3 +3,4 @@ Introduction to Data Assimilation of Time-Series Data by classical linear Kalman
 
 - Inspired by [Learning the Kalman Filter](https://uk.mathworks.com/matlabcentral/fileexchange/5377-learning-the-kalman-filter)
 
+- Also check out Andrea Novoa's excellent [introduction to Data Assimilation](https://github.com/andreanovoa/real-time-bias-aware-DA).
